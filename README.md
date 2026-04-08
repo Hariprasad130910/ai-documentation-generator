@@ -1,5 +1,5 @@
-# ai-documentation-generator
-# AI Documentation Generator
+# DocuGen AI Rlease
+# DocuGen AI Rlease
 
 ## Project Overview
 
