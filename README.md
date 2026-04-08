@@ -1,5 +1,4 @@
-# DocuGen AI Rlease
-# DocuGen AI Rlease
+# DocuGen AI Release
 
 ## Project Overview
 
